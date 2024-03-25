@@ -11,6 +11,7 @@ import javax.swing.JLabel;
 import javax.swing.JPanel;
 import javax.swing.SwingConstants;
 import javax.swing.Timer;
+// This project is made by Mohit Bainsla.
 
 public class Digital_clock extends JFrame {
 
